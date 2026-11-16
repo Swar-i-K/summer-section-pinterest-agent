@@ -1,0 +1,30 @@
+{
+  "brand": "Summer Section",
+  "website": "https://dev-the-summer-section.pantheonsite.io/",
+  "market": "United States",
+  "platform": "Pinterest",
+  "canvas": {
+    "width": 1000,
+    "height": 1500
+  },
+  "colors": {
+    "ivory": "#F5EFE6",
+    "cream": "#EFE5D7",
+    "champagne": "#D8C7AE",
+    "sage": "#A8B5A0",
+    "blush": "#E8CFCB",
+    "ink": "#34332F",
+    "muted": "#77736C"
+  },
+  "tone": [
+    "helpful",
+    "informative",
+    "trustworthy",
+    "clear",
+    "non-hype"
+  ],
+  "pins_per_article": 10,
+  "approval_required": true,
+  "ai_backgrounds_enabled_by_default": true,
+  "display_domain": "summersection.com"
+}
